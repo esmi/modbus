@@ -1,0 +1,19 @@
+{
+    "name": "esmi/modbus",
+    "description": "A modbus.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "esmi",
+            "email": "evansmile@gmail.com"
+        }
+    ],    
+    "require": {
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Esmi\\modbus\\": "src/"}
+    }
+
+}
